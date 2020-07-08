@@ -1,0 +1,140 @@
+completion_text: |-
+  <p>Es por ello que es importante aprenderlo</p>
+description: "Introducci\xF3n al mercadeo"
+next_flow_id: quiz2
+next_flow_title: TOMA EL QUIZ
+pages:
+- content: "<p><span style=\"font-family: Verdana; font-size: small; text-align: justify;\"\
+    >Se ha empleado el anglicismo \"marketing\", debido a la expansi\xF3n de su uso\
+    \ en general, as\xED como a la simpat\xEDa con que ha sido acogido por la mayor\
+    \ parte de las personas de habla hispana.</span><br style=\"font-family: Verdana;\
+    \ font-size: small; text-align: justify;\"><br style=\"font-family: Verdana; font-size:\
+    \ small; text-align: justify;\"><span style=\"font-family: Verdana; font-size:\
+    \ small; text-align: justify;\">En todo caso, la palabra proviene del af\xE1n\
+    \ de \" sustantivizar \" la expresi\xF3n: \"Ir hacia el mercado \" (to go into\
+    \ the market).</span><br style=\"font-family: Verdana; font-size: small; text-align:\
+    \ justify;\"><br style=\"font-family: Verdana; font-size: small; text-align: justify;\"\
+    ><span style=\"font-family: Verdana; font-size: small; text-align: justify;\"\
+    >El prop\xF3sito fundamental de la Mercadotecnia o Marketing es atender las necesidades\
+    \ planteadas por el mercado; que a nivel unitario, est\xE1 conformado por un conjunto\
+    \ de clientes cuyos intereses, deseos, problemas y limitaciones son la materia\
+    \ de trabajo del \"marketero\" (L\xE9ase Mercad\xF3logo).</span><br style=\"font-family:\
+    \ Verdana; font-size: small; text-align: justify;\"><br style=\"font-family: Verdana;\
+    \ font-size: small; text-align: justify;\"><span style=\"font-family: Verdana;\
+    \ font-size: small; text-align: justify;\">El <b>marketing</b> es una ciencia\
+    \ poco formalizada, es decir, carece muchas veces del rigor cient\xEDfico propio\
+    \ de las ciencias exactas; ello se debe esencialmente a que dicha ciencia est\xE1\
+    \ enfocada o dirigida hacia el cliente; entendi\xE9ndose as\xED que la naturaleza\
+    \ inherente al ser humano caracteriza much\xEDsimas veces su impredecibilidad\
+    \ en el comportamiento, lo cual explica grandemente muchos casos de fracasos de\
+    \ productos que fueron concebidos o desarrollados sin tomar en consideraci\xF3\
+    n a la persona.</span><br style=\"font-family: Verdana; font-size: small; text-align:\
+    \ justify;\"><br style=\"font-family: Verdana; font-size: small; text-align: justify;\"\
+    ><span style=\"font-family: Verdana; font-size: small; text-align: justify;\"\
+    >El error cl\xE1sico que se suele incurrir es el de orientar la gesti\xF3n comercial\
+    \ hacia el producto (que en lo sucesivo incluir\xE1 t\xE1citamente el concepto\
+    \ de servicio); y no hacia el mercado; dicho en otras palabras, se tiende a asumir\
+    \ que la concepci\xF3n y dise\xF1o de un producto innovador u original ser\xED\
+    a m\xE1s que suficiente para lograr su \xE9xito comercial, sin tomar en consideraci\xF3\
+    n al mercado (los clientes potenciales); por ello; es vital entender que los productos\
+    \ son una funci\xF3n del mercado y no al rev\xE9s.</span><br style=\"font-family:\
+    \ Verdana; font-size: small; text-align: justify;\"><br style=\"font-family: Verdana;\
+    \ font-size: small; text-align: justify;\"><span style=\"font-family: Verdana;\
+    \ font-size: small; text-align: justify;\">Se podr\xEDa afirmar que el grado con\
+    \ que una organizaci\xF3n, o inclusive una persona, pueda \"sintonizarse\" con\
+    \ sus clientes ser\xE1 el factor principal para el \xE9xito en sus negocios; ahora\
+    \ bien; si se pudiera ir m\xE1s all\xE1 de esta capacidad de \"sinton\xEDa\";\
+    \ para llegar a un nivel de poderse, incluso; anticipar o predecir las necesidades\
+    \ del mercado, el \xE9xito del futuro est\xE1 significativamente garantizado;\
+    \ es por ello que se explica la raz\xF3n por la que much\xEDsimas empresas y organizaciones\
+    \ est\xE1n tendiendo l\xEDneas directas de comunicaci\xF3n con sus usuarios a\
+    \ trav\xE9s de los medios modernos de comunicaci\xF3n electr\xF3nicos; tal es\
+    \ el concepto aplicado de la t\xE9cnica de Telegesti\xF3n comercial; o Telemarketing.</span><br></p>"
+  id: intro
+  title: INICIO
+  type: Page
+- content: "<div align=\"center\" style=\"font-family: Times; font-size: medium;\"\
+    ><table border=\"0\" cellpadding=\"0\" cellspacing=\"1\" width=\"100%\"><tbody><tr><td\
+    \ width=\"50%\"></td><td width=\"50%\"><a href=\"http://sisbib.unmsm.edu.pe/bibvirtual/publicaciones/indata/v01_n1/introduccion.htm#arriba\"\
+    ><img border=\"0\" src=\"http://sisbib.unmsm.edu.pe/bibvirtual/images/arriba.gif\"\
+    \ alt=\"volver arriba\" width=\"16\" height=\"16\" align=\"right\"></a></td></tr></tbody></table></div><p\
+    \ align=\"JUSTIFY\" style=\"font-family: Times; font-size: medium;\"><font face=\"\
+    Verdana\" size=\"2\">Es uno de los conceptos fundamentales del marketing; el que,\
+    \ desde el punto de vista de los negocios; est\xE1 constituido por la DEMANDA\
+    \ (estimada o medida) de los bienes y/o servicios para una organizaci\xF3n.<br>Su\
+    \ importancia radica en que permitir\xE1, entre otras aplicaciones esenciales:</font></p><blockquote\
+    \ style=\"font-family: Times; font-size: medium;\"><p align=\"JUSTIFY\"><font\
+    \ face=\"Verdana\" size=\"2\">- Pronosticar las ventas esperadas a futuro y, en\
+    \ consecuencia, el flujo de los ingresos econ\xF3micos a ser proyectados.<br><br>-\
+    \ Determinar el tama\xF1o del negocio o la capacidad de planta para la fabricaci\xF3\
+    n de los bienes.<br><br>- Elaborar los planes de operaciones y/o de producci\xF3\
+    n en funci\xF3n a las variaciones que en el tiempo futuro puedan afectar las ventas\
+    \ y, en consecuencia la demanda.</font></p></blockquote>"
+  id: page1
+  title: Tema 1 - Mercado
+  type: Page
+- content: "<p><span style=\"font-family: Arial; background-color: rgb(248, 248, 248);\"\
+    >Podemos definir el marketing estrat\xE9gico como&nbsp;</span><em style=\"margin:\
+    \ 0px; padding: 0px; border: 0px; font-variant-numeric: inherit; font-variant-east-asian:\
+    \ inherit; font-stretch: inherit; line-height: inherit; font-family: georgia;\
+    \ vertical-align: baseline; background-color: rgb(248, 248, 248);\"><span style=\"\
+    font-family: Arial;\">un an\xE1lisis sistem\xE1tico y continuado de las caracter\xED\
+    sticas del mercado y del desarrollo de conceptos o de productos rentables, orientados\
+    \ hacia grupos de consumidores determinados, teniendo en cuenta la competencia\
+    \ y procurando alcanzar una ventaja competitiva defendible a largo plazo</span></em><span\
+    \ style=\"font-family: Arial; background-color: rgb(248, 248, 248);\">.</span><br\
+    \ style=\"font-family: arial, sans-serif; background-color: rgb(248, 248, 248);\"\
+    ><span style=\"font-family: Arial; background-color: rgb(248, 248, 248);\">La\
+    \ gesti\xF3n del marketing estrat\xE9gico se sit\xFAa en el medio y largo plazo,\
+    \ definiendo los objetivos, elaborando una estrategia de desarrollo y manteniendo\
+    \ una estructura equilibrada de la cartera de productos. El marketing estrat\xE9\
+    gico interviene activamente en la orientaci\xF3n y formulaci\xF3n de la estrategia\
+    \ de la empresa. Facilita informaci\xF3n sobre la evoluci\xF3n de la demanda,\
+    \ la segmentaci\xF3n del mercado, las posiciones competitivas y la existencia\
+    \ de oportunidades y amenazas. Igualmente, analiza las capacidades y recursos\
+    \ para adaptar la empresa al entorno y situarla en una posici\xF3n de ventaja\
+    \ competitiva sostenible.</span><br style=\"font-family: arial, sans-serif; background-color:\
+    \ rgb(248, 248, 248);\"><span style=\"font-family: Arial; background-color: rgb(248,\
+    \ 248, 248);\">Como adelanto del post que mas adelante editare en mi blog , adjunto\
+    \ una representaci\xF3n power point, donde trato de aclarar el termino de Marketing\
+    \ Estrat\xE9gico.</span><br></p>"
+  id: page2
+  title: "Tema 2 - Marketing Estrat\xE9gico"
+  type: Page
+- content: "<p><span style=\"font-family: Arial; background-color: rgb(248, 248, 248);\"\
+    >MARKETING OPERATIVO.-Tambi\xE9n conocido como marketing OPERACIONAL. La gesti\xF3\
+    n operativa del marketing se plantea en un horizonte temporal del medio y corto\
+    \ plazo y supone una actividad eminentemente t\xE1ctica .</span><br style=\"font-family:\
+    \ arial, sans-serif; background-color: rgb(248, 248, 248);\"><em style=\"margin:\
+    \ 0px; padding: 0px; border: 0px; font-variant-numeric: inherit; font-variant-east-asian:\
+    \ inherit; font-stretch: inherit; line-height: inherit; font-family: georgia;\
+    \ vertical-align: baseline; background-color: rgb(248, 248, 248);\"><span style=\"\
+    font-family: Arial;\">El marketing operativo gestiona las decisiones y puesta\
+    \ en pr\xE1ctica del programa de marketing-mix y se concreta en decisiones relativas\
+    \ al producto, precio, distribuci\xF3n y comunicaci\xF3n</span></em><span style=\"\
+    font-family: Arial; background-color: rgb(248, 248, 248);\">. Le compete, por\
+    \ tanto, al marketing operativo o t\xE1ctico: planificar, ejecutar y controlar\
+    \ las acciones de marketing del c\xF3mo llegar.</span><br style=\"font-family:\
+    \ arial, sans-serif; background-color: rgb(248, 248, 248);\"><em style=\"margin:\
+    \ 0px; padding: 0px; border: 0px; font-variant-numeric: inherit; font-variant-east-asian:\
+    \ inherit; font-stretch: inherit; line-height: inherit; font-family: georgia;\
+    \ vertical-align: baseline; background-color: rgb(248, 248, 248);\"><span style=\"\
+    font-family: Arial;\">\u201CEl marketing operativo se refiere a las actividades\
+    \ de organizaci\xF3n de estrategias de venta y de comunicaci\xF3n para dar a conocer\
+    \ a los posibles compradores las particulares caracter\xEDsticas de los productos\
+    \ o servicios ofrecidos. Se trata de una gesti\xF3n de conquista de mercados a\
+    \ corto y medio plazo, m\xE1s parecida a la cl\xE1sica gesti\xF3n comercial sobre\
+    \ la base de las cuatro P del marketing mix\u201D.</span></em><br style=\"font-family:\
+    \ arial, sans-serif; background-color: rgb(248, 248, 248);\"><span style=\"font-family:\
+    \ Arial; background-color: rgb(248, 248, 248);\">Sobre los llamados Marketing\
+    \ Estrat\xE9gico y Operativo , mas adelante , el autor editara unos art\xEDculos\
+    \ que explicaran estos t\xE9rminos con una mayor extensi\xF3n.</span><br></p>"
+  id: page3
+  title: Tema 3 - Marketing operativo
+  type: Page
+rules:
+  access:
+  - if_has_role: [ta, student, instructor]
+    permissions: [view]
+  grade_identifier: null
+title: "Introducci\xF3n al mercadeo"
