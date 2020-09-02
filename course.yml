@@ -4,9 +4,12 @@ chunks:
   - flow_id: flow1
     next_flow: quiz2
     pages:
-    - {flow_id: page1, title: Tema 1 - Mercado}
-    - {flow_id: page2, title: "Tema 2 - Marketing Estrat\xE9gico"}
-    - {flow_id: page3, title: Tema 3 - Marketing operativo}
+    - flow_id: page1
+      title: Tema 1 - Mercado
+    - flow_id: page2
+      title: "Tema 2 - Marketing Estrat\xE9gico"
+    - flow_id: page3
+      title: Tema 3 - Marketing operativo
     title: "Introducci\xF3n al mercadeo"
     title_next_flow: TOMA EL QUIZ
   id: welcome
