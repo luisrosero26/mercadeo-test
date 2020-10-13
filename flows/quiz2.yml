@@ -17,6 +17,32 @@ groups:
     title: Por favor responda Si
     type: TextQuestion
     value: 100.0
+  - answers:
+    - <plain>Hola
+    id: quizquestion37
+    prompt: ''
+    title: Nueva pregunta
+    type: TextQuestion
+    value: 100.0
+  - choices:
+    - ~CORRECT~ Si
+    id: quizquestion38
+    prompt: ''
+    title: Pregunta 3
+    type: ChoiceQuestion
+    value: 0.0
+  - choices:
+    - '1'
+    - '2'
+    - '3'
+    - ~CORRECT~ 4
+    credit_mode: exact
+    id: quizquestion39
+    prompt: ''
+    shuffle: true
+    title: Pregunta 4
+    type: MultipleChoiceQuestion
+    value: 100.0
   shuffle: false
 rules:
   access:
