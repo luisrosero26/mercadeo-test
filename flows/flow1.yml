@@ -4,54 +4,10 @@ description: "Introducci\xF3n al mercadeo"
 next_flow_id: quiz2
 next_flow_title: TOMA EL QUIZ
 pages:
-- content: "<p><span style=\"font-family: Verdana; font-size: small; text-align: justify;\"\
-    >Se ha empleado el anglicismo \"marketing\", debido a la expansi\xF3n de su uso\
-    \ en general, as\xED como a la simpat\xEDa con que ha sido acogido por la mayor\
-    \ parte de las personas de habla hispana.</span><br style=\"font-family: Verdana;\
-    \ font-size: small; text-align: justify;\"><br style=\"font-family: Verdana; font-size:\
-    \ small; text-align: justify;\"><span style=\"font-family: Verdana; font-size:\
-    \ small; text-align: justify;\">En todo caso, la palabra proviene del af\xE1n\
-    \ de \" sustantivizar \" la expresi\xF3n: \"Ir hacia el mercado \" (to go into\
-    \ the market).</span><br style=\"font-family: Verdana; font-size: small; text-align:\
-    \ justify;\"><br style=\"font-family: Verdana; font-size: small; text-align: justify;\"\
-    ><span style=\"font-family: Verdana; font-size: small; text-align: justify;\"\
-    >El prop\xF3sito fundamental de la Mercadotecnia o Marketing es atender las necesidades\
-    \ planteadas por el mercado; que a nivel unitario, est\xE1 conformado por un conjunto\
-    \ de clientes cuyos intereses, deseos, problemas y limitaciones son la materia\
-    \ de trabajo del \"marketero\" (L\xE9ase Mercad\xF3logo).</span><br style=\"font-family:\
-    \ Verdana; font-size: small; text-align: justify;\"><br style=\"font-family: Verdana;\
-    \ font-size: small; text-align: justify;\"><span style=\"font-family: Verdana;\
-    \ font-size: small; text-align: justify;\">El <b>marketing</b> es una ciencia\
-    \ poco formalizada, es decir, carece muchas veces del rigor cient\xEDfico propio\
-    \ de las ciencias exactas; ello se debe esencialmente a que dicha ciencia est\xE1\
-    \ enfocada o dirigida hacia el cliente; entendi\xE9ndose as\xED que la naturaleza\
-    \ inherente al ser humano caracteriza much\xEDsimas veces su impredecibilidad\
-    \ en el comportamiento, lo cual explica grandemente muchos casos de fracasos de\
-    \ productos que fueron concebidos o desarrollados sin tomar en consideraci\xF3\
-    n a la persona.</span><br style=\"font-family: Verdana; font-size: small; text-align:\
-    \ justify;\"><br style=\"font-family: Verdana; font-size: small; text-align: justify;\"\
-    ><span style=\"font-family: Verdana; font-size: small; text-align: justify;\"\
-    >El error cl\xE1sico que se suele incurrir es el de orientar la gesti\xF3n comercial\
-    \ hacia el producto (que en lo sucesivo incluir\xE1 t\xE1citamente el concepto\
-    \ de servicio); y no hacia el mercado; dicho en otras palabras, se tiende a asumir\
-    \ que la concepci\xF3n y dise\xF1o de un producto innovador u original ser\xED\
-    a m\xE1s que suficiente para lograr su \xE9xito comercial, sin tomar en consideraci\xF3\
-    n al mercado (los clientes potenciales); por ello; es vital entender que los productos\
-    \ son una funci\xF3n del mercado y no al rev\xE9s.</span><br style=\"font-family:\
-    \ Verdana; font-size: small; text-align: justify;\"><br style=\"font-family: Verdana;\
-    \ font-size: small; text-align: justify;\"><span style=\"font-family: Verdana;\
-    \ font-size: small; text-align: justify;\">Se podr\xEDa afirmar que el grado con\
-    \ que una organizaci\xF3n, o inclusive una persona, pueda \"sintonizarse\" con\
-    \ sus clientes ser\xE1 el factor principal para el \xE9xito en sus negocios; ahora\
-    \ bien; si se pudiera ir m\xE1s all\xE1 de esta capacidad de \"sinton\xEDa\";\
-    \ para llegar a un nivel de poderse, incluso; anticipar o predecir las necesidades\
-    \ del mercado, el \xE9xito del futuro est\xE1 significativamente garantizado;\
-    \ es por ello que se explica la raz\xF3n por la que much\xEDsimas empresas y organizaciones\
-    \ est\xE1n tendiendo l\xEDneas directas de comunicaci\xF3n con sus usuarios a\
-    \ trav\xE9s de los medios modernos de comunicaci\xF3n electr\xF3nicos; tal es\
-    \ el concepto aplicado de la t\xE9cnica de Telegesti\xF3n comercial; o Telemarketing.</span><br></p>"
+- content: |-
+    <p>https://drive.google.com/file/d/1aFEb3pEzpADMZcxMBAoXJ43Th6SC4pHm/view?usp=sharing</p><p><br></p>
   id: intro
-  title: INICIO
+  title: Inicio
   type: Page
 - content: "<div align=\"center\" style=\"font-family: Times; font-size: medium;\"\
     ><table border=\"0\" cellpadding=\"0\" cellspacing=\"1\" width=\"100%\"><tbody><tr><td\
